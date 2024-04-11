@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WindowsSaveRestoreExplorer - Save": {
+      "commandName": "Project",
+      "commandLineArgs": "save"
+    },
+    "WindowsSaveRestoreExplorer - Restore": {
+      "commandName": "Project",
+      "commandLineArgs": "restore"
+    },
+    "WindowsSaveRestoreExplorer - Get": {
+      "commandName": "Project",
+      "commandLineArgs": "get"
+    }
+  }
+}
